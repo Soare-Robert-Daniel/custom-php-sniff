@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<ruleset name="ThemeisleSniffs">
+    <description>Custom Sniffs from Themeisle</description>
+</ruleset>
